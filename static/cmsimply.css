@@ -1,5 +1,8 @@
 .container {
   position: relative;
+  background-image: url(https://i.pximg.net/img-original/img/2018/09/01/00/29/20/70480754_p0.png);width: 1510px;
+    height: 850px;
+  background-size: 100%
 }
 header{
   background-image: url(https://lh5.googleusercontent.com/-pp6dCbhBCrI/VSj9NxoRWeI/AAAAAAAABME/FJ7rPIzFPTk/w660-h125-no/%E8%89%A6%E5%A8%98231_%E7%B0%BD%E5%90%8D%E6%AA%94_201.gif);height:90px;
@@ -203,5 +206,6 @@ width: 195px;
 }
 body {
   margin-bottom: 120px;
+  
 }
 
